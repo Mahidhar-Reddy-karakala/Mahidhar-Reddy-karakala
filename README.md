@@ -112,9 +112,7 @@ I enjoy drawing system design diagrams and thinking through **real-world constra
 ## 📫 Connect With Me
 
 - 📧 Email: **mahidharkarakala2405@gmail.com**
-- 💼 LinkedIn: *[Add your LinkedIn link]*
-- 🧑‍💻 GitHub: *You're already here 😄*
-- 📊 LeetCode: *[Add your profile link]*
+
 
 ---
 
